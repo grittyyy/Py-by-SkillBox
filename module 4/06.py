@@ -1,6 +1,3 @@
-from xml.etree.ElementTree import tostring
-
-
 firstCube = int(input('Кубик Кости: '))
 secondCube = int(input('Кубик владельца: '))
 if firstCube >= secondCube:
