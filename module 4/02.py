@@ -1,7 +1,3 @@
-from cmath import inf
-from distutils.log import info
-
-
 russianLang = int(input('Введите количество баллов по русскому языку: '))
 math = int(input('Введите количество баллов по математике: '))
 informatics = int(input('Введите количество баллов по информатике: '))
